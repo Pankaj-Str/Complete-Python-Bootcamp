@@ -1,9 +1,5 @@
 # Python Variables, Constants and Literals
 
-Certainly! Let's create a tutorial on Python variables, constants, and literals for your website, codeswithpankaj.com.
-
-### Tutorial: Python Variables, Constants, and Literals
-
 #### Introduction:
 Welcome to CodesWithPankaj.com! In this tutorial, we'll explore the fundamental concepts of variables, constants, and literals in Python. Understanding these concepts is crucial for effective programming. Let's dive in!
 

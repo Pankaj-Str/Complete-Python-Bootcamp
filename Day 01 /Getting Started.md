@@ -1,5 +1,5 @@
 # Getting started with Python is a great idea, as it's a versatile and beginner-friendly programming language. 
-### Here's a step-by-step tutorial [Codes With Pankaj ](https://www.codeswithpankaj.com) on how to install Python and get started with your first program:
+### Here's a step-by-step tutorial on how to install Python and get started with your first program:
 
 ### Step 1: Install Python
 
